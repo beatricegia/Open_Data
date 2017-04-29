@@ -1,0 +1,6 @@
+PROBLEMI:
+	* non trova le immagini..
+	* non mi inserisce più lo sfondo nel MyHeader
+	* modo per inserire il comune come parametro a scelta
+	* login failed per sa
+	* vorrei fare in modo che la combobox di ogni bottone sparisca nel momento in cui faccio click su un'altra
