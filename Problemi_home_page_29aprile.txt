@@ -1,6 +1,6 @@
 PROBLEMI:
-	* non trova le immagini..
-	* non mi inserisce più lo sfondo nel MyHeader
-	* modo per inserire il comune come parametro a scelta
+	* non trova le immagini.. RISOLTO IN NUOVO_SENZA_QUERY
+	* non mi inserisce più lo sfondo nel MyHeader RISOLTO IN NUOVA_SENZA_QUERY
+
 	* login failed per sa
 	* vorrei fare in modo che la combobox di ogni bottone sparisca nel momento in cui faccio click su un'altra
