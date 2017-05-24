@@ -1,0 +1,9 @@
+IRRIGAZIONI:
+- VALORE E TIPO VALORE
+- RIFERIMENTO --> JOIN CON IMPIRRIG SU COD_IMP E filtro ANNo
+
+FABBRICATI:
+- NUMERO DI FABBRICATI PER CLASSE per cat e cat1
+
+**INTERFACCIA**
+Quando utente si autentica inserire css che cura la scritta che appare
